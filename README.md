@@ -1,6 +1,11 @@
 Kazuki Kimura 
 ============
 
+[![GitHub release](https://img.shields.io/github/release/Adhamura/KazukiReiwa.svg?logo=github)](https://github.com/Adhamura/KazukiReiwa/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/Adhamura/KazukiReiwa/latest/total.svg?logo=github)](https://github.com/Adhamura/KazukiReiwa/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/Adhamura/KazukiReiwa/total.svg?logo=github)](https://github.com/Adhamura/KazukiReiwa/releases)
+
+
 ![KazukiReiwa_Image1](Documentation/Logo.png)
 ![KazukiReiwa_Image2](Documentation/LetterExample.png)
 :arrow_down::arrow_down::arrow_down::arrow_down::arrow_down:
