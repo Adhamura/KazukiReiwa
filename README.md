@@ -12,6 +12,8 @@
 
 ![KazukiReiwa_Image1](Documentation/Logo.png)
 
+<img src="Documentation/Demo.gif" width="800" alt="KazukiReiwa demo: the name and sample letters through the nine weights from Thin to Black, then Latin, Cyrillic, Greek, Japanese and Braille text typed out in the font">
+
 ![KazukiReiwa_Image2](Documentation/LetterExample.png)
 
 [Download](#-download) • [Features](#-features) • [Supported Scripts](#-supported-scripts) • [Changelog](#-changelog) • [License](#-license)
